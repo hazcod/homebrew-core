@@ -1,7 +1,7 @@
 class Maclaunch < Formula
   desc "Manage your macOS startup items."
   homepage "https://github.com/hazcod/maclaunch"
-  url "https://codeload.github.com/HazCod/maclaunch/zip/2.3.1"
+  url "https://codeload.github.com/hazcod/maclaunch/zip/2.3.1"
   version "2.3.1"
   sha256 "579394e1cf97cfd3a321c5b0278d34917e0365d5e88a836264abad4798c754b8"
 
