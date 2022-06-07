@@ -10,6 +10,6 @@ class Maclaunch < Formula
   end
 
   test do
-    system "#{bin}/maclaunch" list
+    system bin/"maclaunch", "list"
   end
 end
